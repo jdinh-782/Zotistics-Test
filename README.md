@@ -1,6 +1,6 @@
 # Zotistics-Test
-Zotistics Project Testing <br>
-*This repository is only used for testing purposes. Please refer to https://github.com/icssc-projects/Zotistics for official version. <br>
+Zotistics Project Testing <br />
+*This repository is only used for testing purposes. Please refer to https://github.com/icssc-projects/Zotistics for official version. <br />
 
 
 
