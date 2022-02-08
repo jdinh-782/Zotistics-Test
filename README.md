@@ -1,13 +1,3 @@
-# Zotistics-Test
-**Zotistics Project Testing** <br />
-_This repository is only used for testing purposes. Please refer to https://github.com/icssc-projects/Zotistics for official version and credit._ <br />
-
-<br />
-<br />
-<br />
-
-
-From official markdown: <br />
 Zotistics is UCI's premier grade distribution analysis tool! We use the PeterPortal Public API to consolidate UCI grade data by professors, classes, quarters, and more.
 
 🔨 Built with:
