@@ -7,7 +7,7 @@ _This repository is only used for testing purposes. Please refer to https://gith
 <br />
 
 
-From official markdown:
+From official markdown: <br />
 Zotistics is UCI's premier grade distribution analysis tool! We use the PeterPortal Public API to consolidate UCI grade data by professors, classes, quarters, and more.
 
 🔨 Built with:
